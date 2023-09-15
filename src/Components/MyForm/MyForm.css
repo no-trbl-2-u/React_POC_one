@@ -1,0 +1,24 @@
+.my-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  margin-right: 10px;
+  display: flex;
+  justify-content: right;
+  align-items: right;
+}
+
+.my-names {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+}
+
+p {
+  margin: 5px;
+}
